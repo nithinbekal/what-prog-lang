@@ -41,3 +41,23 @@ body {
 .submit {
   padding: 10px;
 }
+
+footer {
+  font-size: 0.8em;
+  padding-top: 15px;
+}
+
+footer a {
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #444;
+  padding: 3px;
+  text-decoration: none;
+}
+
+footer a:hover {
+  background-color: #ccc;
+  border: 1px solid #aaa;
+  color: #000;
+}
